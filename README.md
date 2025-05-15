@@ -1,5 +1,7 @@
 # stratorder
 
+**!!Not further developed - was merged with [stratcols](https://github.com/MindTheGap-ERC/stratcols)!!**
+
 Quantifying stratigraphic order using methods from Burgess (2016).
 
 ## Authors
